@@ -1,6 +1,11 @@
 
 # &emsp;&emsp;&emsp;一款 Shell 型 MicroPython 文件资源管理器⛺
 
+## 本仓库版本的mpfshell可以适用于 MaixPy m1w Dock 的串口图传开发
+
+最新版的 mpfshell 已经不支持win11下的串口图传开发，建议使用本仓库
+
+ 
  [English Docs](English.md)
 
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
